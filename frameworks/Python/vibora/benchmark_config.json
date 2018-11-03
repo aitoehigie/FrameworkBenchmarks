@@ -1,0 +1,26 @@
+{
+  "framework": "vibora",
+  "tests": [
+    {
+      "default": {
+        "json_url": "/json",
+        "plaintext_url": "/plaintext",
+        "port": 8080,
+        "approach": "Realistic",
+        "classification": "Fullstack",
+        "database": "Postgres",
+        "framework": "Vibora",
+        "language": "Python",
+        "flavor": "None",
+        "orm": "Full",
+        "platform": "None",
+        "webserver": "None",
+        "os": "Linux",
+        "database_os": "Linux",
+        "display_name": "Vibora",
+        "notes": "",
+        "versus": "None"
+      }
+    }
+  ]
+}
